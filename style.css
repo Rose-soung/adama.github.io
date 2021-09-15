@@ -1,0 +1,51 @@
+.topbar{
+    background-color: deepskyblue;
+    color: darkred;
+    
+}
+.topbar-logo{
+    text-align: left;
+    text-align: center;
+    font-size: 50px;
+    padding: 25PX 0;
+}
+.topbar-nav{
+    text-align: right;
+    line-height: 2;
+    padding-bottom: 18px;
+    font-size: 30px;
+}
+.topbar-nav a{
+    display: inline-block;
+    margin: 0 15px;
+    color: rgb(90, 6, 6);
+}
+.h1{
+    text-align: center ;
+    color: rgb(90, 6, 6)
+}
+img{
+    height: 50px;
+    width: 70px;
+}
+.image {
+    height: 750px;
+    width: 1350px;
+}
+h4{
+    text-align: center;
+    color: rgb(90, 6, 6);
+}
+
+footer{
+    text-align: center;
+    background-color:deepskyblue;
+    color: rgb(90, 6, 6);
+    padding-bottom: 27px;
+    line-height: 2;
+    font-size: 30px;
+}
+
+#div{
+    width: 750px;
+}
